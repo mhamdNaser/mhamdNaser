@@ -9,7 +9,7 @@
      <img src="https://img.shields.io/badge/-PHP-blue" /><br>
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
-     👑 &nbsp; Grapgic design
+     👑 &nbsp; Grapgic design<br>
      <br>
 </span>
 <span>
