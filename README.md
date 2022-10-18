@@ -1,8 +1,8 @@
 > # ***Muhammed Naser Edden***
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-HTML-orange">
-     <img src="https://img.shields.io/badge/-CSS-blue">
+     <img src="https://img.shields.io/badge/-HTML-orange?style=social&logo=appveyor">
+     <img src="https://img.shields.io/badge/-CSS-blue?style=social&logo=appveyor">
      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
      <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
