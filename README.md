@@ -1,34 +1,32 @@
 > # ***Muhammed Naser Edden***
 
-<table>
 <h2> 🛠 &nbsp;Tech Stack</h2>
-     <tr>
-     <img src="https://img.shields.io/badge/-HTML-orange">
-     <img src="https://img.shields.io/badge/-CSS-blue">
-     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-     <!--
-           <br>
-           <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" />
-           <br>
-           <img src="https://img.shields.io/badge/-AngularJs-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=whte&style=for-the-badge" />
-           <br>
-           <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=whte&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-NodeJs-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
-           <br>
-           <img src="https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
-           <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
-           <br> 
-      -->
-     </tr>
-</table>
+     <span>
+          <img src="https://img.shields.io/badge/-HTML-orange">
+          <img src="https://img.shields.io/badge/-CSS-blue">
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+          <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+          <!--
+                <br>
+                <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" />
+                <br>
+                <img src="https://img.shields.io/badge/-AngularJs-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=whte&style=for-the-badge" />
+                <br>
+                <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=whte&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-NodeJs-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+                <br>
+                <img src="https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
+                <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
+                <br> 
+           -->
+     </span>
   
     <td>
        <ul>
