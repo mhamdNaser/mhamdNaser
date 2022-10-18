@@ -1,6 +1,6 @@
 ![This is an image](https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png)
 
-`#0969DA` > ***Muhammed Naser Edden***
+> ***`#0969DA` Muhammed Naser Edden***
 
 <!--
 **mhamdNaser/mhamdNaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
