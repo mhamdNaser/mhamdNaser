@@ -19,7 +19,7 @@
         </p>
     </td>
     <td>
-     <p align="center">
+     <p align="center" padding="30px">
        <img height="360em" src="https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png"/>
      </p>
     </td>
