@@ -11,7 +11,7 @@
         -->
           <li>👑 &nbsp; Front-end Developer </li>
           <li>👑 &nbsp; Back-end Developer </li>
-          <li>👑 &nbsp; Mobile App Developer </li>
+          <li>👑 &nbsp; Grapgic design </li>
        </ul>
        <p align="center">
          <br>
