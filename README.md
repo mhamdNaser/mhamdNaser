@@ -1,6 +1,6 @@
 # ***Muhammed Naser Edden***
 
-> Tech Stack
+> Tech Stack :
      <span>
           <img src="https://img.shields.io/badge/-HTML-orange">
           <img src="https://img.shields.io/badge/-CSS-blue">
@@ -26,18 +26,16 @@
                 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
                 <br> 
            -->
+               <!-- 
+               <li>🎓 &nbsp; B.Sc of Computer Science</li>
+               <li>👑 &nbsp; Blockchain Developer </li>
+               -->
+               <li>👑 &nbsp; Front-end Developer </li>
+               <li>👑 &nbsp; Back-end Developer </li>
+               <li>👑 &nbsp; Grapgic design </li>
      </span>
   
-    <td>
-       <ul>
-        <!-- 
-          <li>🎓 &nbsp; B.Sc of Computer Science</li>
-          <li>👑 &nbsp; Blockchain Developer </li>
-         -->
-          <li>👑 &nbsp; Front-end Developer </li>
-          <li>👑 &nbsp; Back-end Developer </li>
-          <li>👑 &nbsp; Grapgic design </li>
-       </ul>
+          
        <p align="center">
          <br>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
