@@ -7,9 +7,10 @@
      <img src="https://img.shields.io/badge/-JavaScript-yellow" />
      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
      <img src="https://img.shields.io/badge/-PHP-blue" /><br>
-     <li>👑 &nbsp; Front-end Developer </li>
-     <li>👑 &nbsp; Back-end Developer </li>
-     <li>👑 &nbsp; Grapgic design </li><br>
+     👑 &nbsp; Front-end Developer
+     👑 &nbsp; Back-end Developer
+     👑 &nbsp; Grapgic design
+     <br>
 </span>
 <span>
      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
