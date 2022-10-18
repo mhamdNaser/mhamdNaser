@@ -7,8 +7,8 @@
      <img src="https://img.shields.io/badge/-JavaScript-yellow" />
      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
      <img src="https://img.shields.io/badge/-PHP-blue" /><br>
-     👑 &nbsp; Front-end Developer
-     👑 &nbsp; Back-end Developer
+     👑 &nbsp; Front-end Developer<br>
+     👑 &nbsp; Back-end Developer<br>
      👑 &nbsp; Grapgic design
      <br>
 </span>
