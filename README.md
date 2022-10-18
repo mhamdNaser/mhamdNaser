@@ -77,16 +77,16 @@ Here are some ideas to get you started:
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="mailto:devstev2022@gmail.com" >
+      <a href="#" >
       <img align="center" alt="Steve Kane | Gmail" width="30em" src="https://img.icons8.com/fluency/452/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/xhVzg4D6XkrW" >
+      <a href="#" >
       <img align="center" alt="Steve Kane | Skype" width="30em" src="https://img.icons8.com/3d-fluency/344/skype-2019.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://t.me/FBS_Icarus" style="margin-right: 8px">
+      <a href="#" style="margin-right: 8px">
       <img align="center" alt="Steve Kane | Telegram" width="30em" src="https://img.icons8.com/3d-fluency/452/telegram.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://discord.com/users/940586668006703115" >
+      <a href="#" >
       <img align="center" alt="Steve Kane | Discord" width="30em" src="https://img.icons8.com/avantgarde/452/discord-logo.png" />
       </a>
       <br>
