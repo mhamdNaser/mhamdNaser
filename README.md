@@ -1,6 +1,6 @@
 > # ***Muhammed Naser Edden***
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+> Tech Stack
      <span>
           <img src="https://img.shields.io/badge/-HTML-orange">
           <img src="https://img.shields.io/badge/-CSS-blue">
