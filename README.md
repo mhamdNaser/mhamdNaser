@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![This is an image](https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png)
 
 <!--
