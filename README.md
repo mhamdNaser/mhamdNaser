@@ -2,7 +2,6 @@
 
 > ***Muhammed Naser Edden :*** full stack
 
-This is [an example][id] reference-style link.
 
 <!--
 **mhamdNaser/mhamdNaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
