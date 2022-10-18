@@ -1,9 +1,9 @@
-# Muhammed Naser Edden
-> ***full stack*** 
+
+ 
 <table>
   <tr>
     <td>
-      <h2> 💻 &nbsp;About Me </h2>
+      # Muhammed Naser Edden > ***full stack***
        <ul>
         <!-- 
           <li>🎓 &nbsp; B.Sc of Computer Science</li>
