@@ -1,6 +1,8 @@
 > # ***Muhammed Naser Edden***
 
+<table>
 <h2> 🛠 &nbsp;Tech Stack</h2>
+     <tr>
      <img src="https://img.shields.io/badge/-HTML-orange">
      <img src="https://img.shields.io/badge/-CSS-blue">
      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -25,8 +27,9 @@
            <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
            <br> 
       -->
-<table>
-  <tr>
+     </tr>
+</table>
+  
     <td>
        <ul>
         <!-- 
@@ -73,4 +76,4 @@
     </div>
    </td>
   </tr>
-</table>
+
