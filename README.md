@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </td>
     <td>
      <p align="center">
-        ![This is an image](https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png)
+       <img height="360em" src="https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png"/>
      </p>
     </td>
   </tr>
