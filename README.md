@@ -5,11 +5,13 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Computer Science</li>
-        <li>👑 &nbsp; Blockchain Developer </li>
-        <li>👑 &nbsp; Front-end Developer </li>
-        <li>👑 &nbsp; Back-end Developer </li>
-        <li>👑 &nbsp; Mobile App Developer </li>
+        <!-- 
+          <li>🎓 &nbsp; B.Sc of Computer Science</li>
+          <li>👑 &nbsp; Blockchain Developer </li>
+        -->
+          <li>👑 &nbsp; Front-end Developer </li>
+          <li>👑 &nbsp; Back-end Developer </li>
+          <li>👑 &nbsp; Mobile App Developer </li>
        </ul>
        <p align="center">
          <br>
