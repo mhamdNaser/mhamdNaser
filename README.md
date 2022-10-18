@@ -1,30 +1,6 @@
 > # ***Muhammed Naser Edden***
-<table>
-  <tr>
-    <td>
-       <ul>
-        <!-- 
-          <li>🎓 &nbsp; B.Sc of Computer Science</li>
-          <li>👑 &nbsp; Blockchain Developer </li>
-         -->
-          <li>👑 &nbsp; Front-end Developer </li>
-          <li>👑 &nbsp; Back-end Developer </li>
-          <li>👑 &nbsp; Grapgic design </li>
-       </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-       <img height="360em" src="https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
+
+<h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
      <br>
      <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" />
@@ -52,6 +28,32 @@
            <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
            <br> 
       -->
+<table>
+  <tr>
+    <td>
+       <ul>
+        <!-- 
+          <li>🎓 &nbsp; B.Sc of Computer Science</li>
+          <li>👑 &nbsp; Blockchain Developer </li>
+         -->
+          <li>👑 &nbsp; Front-end Developer </li>
+          <li>👑 &nbsp; Back-end Developer </li>
+          <li>👑 &nbsp; Grapgic design </li>
+       </ul>
+       <p align="center">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </p>
+    </td>
+    <td>
+     <p align="center">
+       <img height="360em" src="https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png"/>
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
+     
    </td>
    <td>
     <div align="center">
