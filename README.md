@@ -12,7 +12,7 @@
      <li>👑 &nbsp; Front-end Developer </li>
      <li>👑 &nbsp; Back-end Developer </li>
      <li>👑 &nbsp; Grapgic design </li>
-     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
 </span>
 <div align="center">
      <h2><b>Contact Me</b></h2>
