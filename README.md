@@ -34,24 +34,10 @@
                <li>👑 &nbsp; Back-end Developer </li>
                <li>👑 &nbsp; Grapgic design </li>
      </span>
-  
-          
-       <p align="center">
-         <br>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
+        
        <img height="360em" src="https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
      
-   </td>
-   <td>
     <div align="center">
       <h2><b>Contact Me</b></h2>
       <br>
@@ -70,6 +56,4 @@
       <br>
       <br>
     </div>
-   </td>
-  </tr>
 
