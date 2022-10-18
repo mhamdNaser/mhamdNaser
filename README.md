@@ -1,4 +1,4 @@
-![This is an image](https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png)
+
 
 > ***Muhammed Naser Edden :*** full stack
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </td>
     <td>
      <p align="center">
-        ..............................
+        ![This is an image](https://github.com/mhamdNaser/mhamdNaser/blob/main/octocat.png)
      </p>
     </td>
   </tr>
