@@ -6,7 +6,7 @@
         <!-- 
           <li>🎓 &nbsp; B.Sc of Computer Science</li>
           <li>👑 &nbsp; Blockchain Developer </li>
-        -->
+         -->
           <li>👑 &nbsp; Front-end Developer </li>
           <li>👑 &nbsp; Back-end Developer </li>
           <li>👑 &nbsp; Grapgic design </li>
