@@ -4,9 +4,9 @@
      <span>
           <img src="https://img.shields.io/badge/-HTML-orange">
           <img src="https://img.shields.io/badge/-CSS-blue">
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-          <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+          <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+          <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
+          <img src="https://img.shields.io/badge/-PHP-blue" />
           <!--
                 <br>
                 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
