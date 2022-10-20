@@ -24,7 +24,7 @@
           <img align="center" alt="Steve Kane | Gmail" width="30em" src="https://img.icons8.com/fluency/452/gmail.png" />
      </a> &nbsp;&nbsp;
      <a href="#" >
-          <img align="center" alt="Steve Kane | Skype" width="30em" src="https://img.icons8.com/3d-fluency/344/skype-2019.png" />
+          <img align="center" alt="Steve Kane | Skype" width="30em" src="https://icons8.com/icon/118497/facebook-new" />
      </a> &nbsp;&nbsp;
      <a href="#" style="margin-right: 8px">
           <img align="center" alt="Steve Kane | Telegram" width="30em" src="https://img.icons8.com/3d-fluency/452/telegram.png" />
