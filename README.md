@@ -17,6 +17,12 @@
      <br>
 </span>
 <span>
+     👑 &nbsp; Front-end Developer<br>
+     👑 &nbsp; Back-end Developer<br>
+     👑 &nbsp; Grapgic design<br>
+     <br>
+</span>
+<span>
      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </span>
 <div align="center">
