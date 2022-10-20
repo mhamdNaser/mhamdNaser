@@ -10,7 +10,7 @@
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
      <br>
-</span>
+</span><br>
 <span>
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
