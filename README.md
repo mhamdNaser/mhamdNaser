@@ -31,7 +31,7 @@
      </a> &nbsp;&nbsp;
      <a href="#" >
           <img align="center" alt="Steve Kane | Discord" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
-     </a>
+     </a> &nbsp;&nbsp;
      <a href="#" >
           <img align="center" alt="Steve Kane | Discord" width="30em" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/544/Google__G__Logo-512.png" />
      </a>
