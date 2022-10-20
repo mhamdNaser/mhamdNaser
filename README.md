@@ -1,7 +1,7 @@
 ### ***Muhammed Naser Edden***
 
 > Tech Stack :<br>
-<span style="text-align=center;">
+<span style="text-align=center;"">
      <img src="https://img.shields.io/badge/-HTML-orange">
      <img src="https://img.shields.io/badge/-CSS-blue">
      <img src="https://img.shields.io/badge/-SASS-CD6799">
