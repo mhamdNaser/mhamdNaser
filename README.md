@@ -30,7 +30,7 @@
           <img align="center" alt="Steve Kane | Telegram" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
      </a> &nbsp;&nbsp;
      <a href="#" >
-          <img align="center" alt="Steve Kane | Discord" width="30em" src="https://img.icons8.com/avantgarde/452/discord-logo.png" />
+          <img align="center" alt="Steve Kane | Discord" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
      </a>
 </div>
 
