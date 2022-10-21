@@ -25,7 +25,7 @@
      <a href="https://www.facebook.com/N21.muhammed/" >
           <img align="center" alt="Steve Kane | Gmail" width="30em" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
      </a> &nbsp;&nbsp;
-     <a href="#" >
+     <a href="https://www.linkedin.com/in/muhammed-edden-95772123a/" >
           <img align="center" alt="Steve Kane | Skype" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
      </a> &nbsp;&nbsp;
      <a href="#" style="margin-right: 8px">
