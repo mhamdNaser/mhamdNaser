@@ -31,10 +31,10 @@
      <a href="https://www.instagram.com/n21_muhammed/">
           <img align="center" alt="Steve Kane | Telegram" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
      </a> &nbsp;&nbsp;
-     <a href="#" >
+     <a href="https://twitter.com/MhamdNaserEdden" >
           <img align="center" alt="Steve Kane | Discord" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
      </a> &nbsp;&nbsp;
-     <a href="#" >
+     <a href="https://www.blogger.com/u/1/blog/posts/4844086831851321205" >
           <img align="center" alt="Steve Kane | Discord" width="30em" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/544/Google__G__Logo-512.png" />
      </a>
 </div>
