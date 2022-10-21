@@ -28,7 +28,7 @@
      <a href="https://www.linkedin.com/in/muhammed-edden-95772123a/" >
           <img align="center" alt="Steve Kane | Skype" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
      </a> &nbsp;&nbsp;
-     <a href="#" style="margin-right: 8px">
+     <a href="https://www.instagram.com/n21_muhammed/">
           <img align="center" alt="Steve Kane | Telegram" width="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
      </a> &nbsp;&nbsp;
      <a href="#" >
