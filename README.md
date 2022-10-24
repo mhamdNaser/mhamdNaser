@@ -18,9 +18,9 @@
      <br>
 </span>
 <span>
-     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=light&line_height=27" alt="Your's github stats"/> 
-     
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                                                           
+     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=light&line_height=27" alt="Your's github stats"/>   </span>
+<span>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                                                    
 </span>
 
 <div align="center">
