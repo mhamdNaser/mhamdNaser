@@ -20,8 +20,7 @@
 <span>
      <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=light&line_height=27" alt="Your's github stats"/>   </span>
 <span>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                                                    
-</span>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                             </span>
 
 <div align="center">
      <h2><b>Contact Me</b></h2>
