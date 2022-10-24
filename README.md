@@ -18,7 +18,7 @@
      <br>
 </span>
 <span>
-     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=radical"/>   </span>
+     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=Default"/>   </span>
 <span>
      <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                             </span>
 
