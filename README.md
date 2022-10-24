@@ -20,15 +20,10 @@
 <span>
      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      
-     <a href=”https://github.com/mhamdNaser">
-          <img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />
+     <a href="https://github.com/mhamdNaser">
+          <img align="center" src=”https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />
      </a>
 </span>
-<span>
-     
-</span>
-
-
 
 <div align="center">
      <h2><b>Contact Me</b></h2>
