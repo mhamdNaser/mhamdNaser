@@ -18,10 +18,11 @@
      <br>
 </span>
 <span>
-     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=Default"/>
+     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&theme=light&hide_langs_below=1"/>
 <span>
-     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&show_icons=true&theme=Default" />                             </span>
-theme=light&hide_langs_below=1
+     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />                             </span>
+     show_icons=true&theme=Default
+
 <div align="center">
      <h2><b>Contact Me</b></h2>
      <a href="https://www.facebook.com/N21.muhammed/" >
