@@ -1,7 +1,7 @@
 ### ***Muhammed Naser Edden***
 
 > Tech Stack :
-<span align="center">
+<p align="center">
      <img src="https://img.shields.io/badge/-HTML-orange">
      <img src="https://img.shields.io/badge/-CSS-blue">
      <img src="https://img.shields.io/badge/-SASS-CD6799">
@@ -10,13 +10,13 @@
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
      <br>
-</span><br>
-<span align="center">
+</p><br>
+<p align="center">
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
      👑 &nbsp; Grapgic design<br>
      <br>
-</span>
+</p>
 <p align="center">
         <a href="https://github.com/mhamdNaser/github-readme-stats">
         <img alt="Mihir Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
