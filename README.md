@@ -27,13 +27,15 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </p>
-<span>
-     
-     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />
-<div align="center">
-<span>
-     
-</span>
+
+<p align="center">
+    <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+</p>
+<a href="https://github.com/mhamdNaser/github-readme-activity-graph">
+     <img alt="Mihir Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhamdNaser&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <div align="center">
      <h2><b>Contact Me</b></h2>
      <a href="https://www.facebook.com/N21.muhammed/" >
