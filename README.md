@@ -9,7 +9,6 @@
      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
-     <br>
 </p><br>
 <p align="center">
      👑 &nbsp; Front-end Developer<br>
