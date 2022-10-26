@@ -19,7 +19,7 @@
 </span>
 <span>
      <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&theme=light&hide_langs_below=1"/>
-     <img height="195em" src="https://github-readme-stats.vercel.app/api?                      username=mhamdNaser&&show_icons=true&title_color==ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+     <img align="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&theme=ligh&show_icons=true&title_color==ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <div align="center">
 <span>
      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />
