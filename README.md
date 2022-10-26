@@ -17,6 +17,11 @@
      👑 &nbsp; Grapgic design<br>
      <br>
 </span>
+<p align="center">
+    <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mihir Agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamdNaser&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 <span>
      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&theme=light&hide_langs_below=1" />
