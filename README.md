@@ -1,7 +1,7 @@
 ### ***Muhammed Naser Edden***
 
 > Tech Stack :
-<span>
+<span align="center">
      <img src="https://img.shields.io/badge/-HTML-orange">
      <img src="https://img.shields.io/badge/-CSS-blue">
      <img src="https://img.shields.io/badge/-SASS-CD6799">
@@ -11,7 +11,7 @@
      <img src="https://img.shields.io/badge/-PHP-blue" />
      <br>
 </span><br>
-<span>
+<span align="center">
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
      👑 &nbsp; Grapgic design<br>
