@@ -9,12 +9,11 @@
      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
-</p><br>
+</p>
 <p align="center">
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
      👑 &nbsp; Grapgic design<br>
-     <br>
 </p>
 <p align="center">
         <a href="https://github.com/mhamdNaser/github-readme-stats">
