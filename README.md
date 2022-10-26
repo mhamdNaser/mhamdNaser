@@ -18,6 +18,11 @@
      <br>
 </span>
 <p align="center">
+        <a href="https://github.com/mhamdNaser/github-readme-stats">
+        <img alt="Mihir Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </a>
+</p>
+<p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mihir Agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamdNaser&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -25,12 +30,6 @@
 <p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamdNaser&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-</p>
-
-<p align="center">
-        <a href="https://github.com/mhamdNaser/github-readme-stats">
-        <img alt="Mihir Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </a>
 </p>
 <a href="https://github.com/mhamdNaser/github-readme-activity-graph">
