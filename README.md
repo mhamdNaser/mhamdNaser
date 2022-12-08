@@ -10,7 +10,8 @@
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
 </p>
-<p align="center">
+<p>
+     👑 &nbsp; mockup and wireframe designer<br>
      👑 &nbsp; Front-end Developer<br>
      👑 &nbsp; Back-end Developer<br>
      👑 &nbsp; Grapgic design<br>
