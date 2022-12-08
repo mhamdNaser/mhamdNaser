@@ -32,7 +32,7 @@
 </p>
 
 <a href="https://github.com/mhamdNaser/github-readme-activity-graph">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=000000&color=e5e1e5&line=4c619e&point=ffffff&area=true&hide_border=true)"/>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=000000&color=e5e1e5&line=e5e1e5&point=ffffff&area=true&hide_border=true)"/>
      </a>
      
      
