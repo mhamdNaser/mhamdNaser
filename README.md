@@ -11,10 +11,10 @@
      <img src="https://img.shields.io/badge/-PHP-blue" />
 </p>
 <p>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; mockup and wireframe designer<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Front-end Developer<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Back-end Developer<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Grapgic design<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; mockup and wireframe designer<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Front-end Developer<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Back-end Developer<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👑 &nbsp; Grapgic design<br>
 </p>
 <p align="center">
      <a href="https://github.com/mhamdNaser/github-readme-stats">
