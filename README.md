@@ -34,11 +34,6 @@
 <a href="https://github.com/mhamdNaser/github-readme-activity-graph">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=000000&color=e5e1e5&line=6699b2&point=ffffff&area=true&hide_border=true)"/>
      </a>
-     
-     
-<a href="https://github.com/mhamdNaser/github-readme-activity-graph">
-     [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=000000&color=e5e1e5&line=4c619e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-     </a>
 
 <div align="center">
      <h2><b>Contact Me</b></h2>
