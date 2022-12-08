@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
-        <img alt="muhammed nasser edden" src="(https://streak-stats.demolab.com?user=mhamdNaser&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img alt="muhammed nasser edden" src="https://streak-stats.demolab.com?user=mhamdNaser&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
