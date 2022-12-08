@@ -19,6 +19,9 @@
         <a href="https://github.com/mhamdNaser/github-readme-stats">
         <img alt="Mihir Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
     </a>
+    <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
+    </a>
 </p>
 <p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
