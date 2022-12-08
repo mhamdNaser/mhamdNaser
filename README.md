@@ -17,7 +17,7 @@
 </p>
 <p align="center">
      <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
-        <img height="1650em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
     </a>
     <a href="https://github.com/mhamdNaser/github-readme-stats">
         <img alt="muhammed nasser edden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
