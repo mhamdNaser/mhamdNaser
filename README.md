@@ -16,18 +16,14 @@
      👑 &nbsp; Grapgic design<br>
 </p>
 <p align="center">
+     <a href="https://github.com/mhamdNaser/github-readme-stats">
+        <img alt="muhammed nasser edden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
+    </a>
      <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
     </a>
-    <a href="https://github.com/mhamdNaser/github-readme-stats">
-        <img alt="muhammed nasser edden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
-    </a>
 </p>
-<p align="center">
-    <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
-    </a>
-</p>
+
 <p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamdNaser&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
