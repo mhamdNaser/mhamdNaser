@@ -16,11 +16,11 @@
      👑 &nbsp; Grapgic design<br>
 </p>
 <p align="center">
-        <a href="https://github.com/mhamdNaser/github-readme-stats">
-        <img alt="Mihir Agarwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
+     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
+        <img height="1650em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
     </a>
-    <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&include_all_commits=true"/>
+    <a href="https://github.com/mhamdNaser/github-readme-stats">
+        <img alt="muhammed nasser edden" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact" /></a>
     </a>
 </p>
 <p align="center">
