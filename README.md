@@ -26,12 +26,12 @@
 
 <p align="center">
     <a href="https://github.com/mhamdNaser/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamdNaser&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="muhammed nasser edden" src="(https://streak-stats.demolab.com?user=mhamdNaser&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
 <a href="https://github.com/mhamdNaser/github-readme-activity-graph">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muhammed nasser edden" src="https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=ffffff&color=e5e1e5&line=6699b2&point=000000&area=true&hide_border=true)"/>
+     <img alt="muhammed nasser edden" src="https://github-readme-activity-graph.cyclic.app/graph?username=mhamdNaser&bg_color=ffffff&color=e5e1e5&line=6699b2&point=000000&area=true&hide_border=true)"/>
      </a>
 
 <div align="center">
