@@ -1,6 +1,5 @@
 ### ***Muhammed Naser Edden***
 
-> Tech Stack :
 <p align="center">
      <img src="https://img.shields.io/badge/-HTML-orange">
      <img src="https://img.shields.io/badge/-CSS-blue">
