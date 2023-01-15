@@ -12,4 +12,6 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=transparent)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhamdNaser)](https://github.com/anuraghazra/github-readme-stats)
+
 
