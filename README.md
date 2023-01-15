@@ -11,7 +11,9 @@
      <img src="https://img.shields.io/badge/-Laravel-red">
 </p>
 
-https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=transparent)
-https://github-readme-stats.vercel.app/api/wakatime?username=mhamdNaser)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
