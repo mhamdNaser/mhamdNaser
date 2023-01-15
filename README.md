@@ -11,4 +11,5 @@
      <img src="https://img.shields.io/badge/-Laravel-red">
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
