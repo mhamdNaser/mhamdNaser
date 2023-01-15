@@ -8,6 +8,7 @@
      <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" />
      <img src="https://img.shields.io/badge/-Wordpress-lightgrey" />
      <img src="https://img.shields.io/badge/-PHP-blue" />
+     <img src="https://img.shields.io/badge/-Laravel-orange">
 </p>
 
 
