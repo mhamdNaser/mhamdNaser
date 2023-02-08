@@ -4,6 +4,9 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true&width=380&height=45">
 	</a>
 </p>
+<h1 align="center"> Muhammed Naser Edden </h1>
+
+
 <h3 align="center">Frontend</h3>
 <p align="center">
 	 <a href="https://www.w3.org/html/" target="_blank"> 
@@ -28,8 +31,6 @@
 	  </a>
 </p>
 
-
-<h1 align="center"> Muhammed Naser Edden </h1>
 
 <p align="center">
      <img src="https://img.shields.io/badge/-HTML-orange">
