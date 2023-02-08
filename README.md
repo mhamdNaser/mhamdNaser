@@ -17,7 +17,7 @@
 	    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
 	      alt="css3"/>
 	  </a>
-	<a href="https://www.w3schools.com/css/" target="_blank">
+	<a href="https://sass-lang.com/documentation/" target="_blank">
 	    <img src="https://img.shields.io/badge/sass-ff69b4.svg?style=for-the-badge&logo=sass&logoColor=white"
 	      alt="sass"/>
 	  </a>
