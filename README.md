@@ -35,7 +35,8 @@
 	<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="bootstrap" />
       <br>wordpress
     </td>
-    </td>
+</tr>
+<tr>
   <br>
   <h3 align="center">Backend</h3>
   <td align="center"  width="96">
