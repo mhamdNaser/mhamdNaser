@@ -1,5 +1,10 @@
+<h1 align="center">Muhammed Nasser Edden</h1>
+
+<br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&text=Hello!&height=100&section=footer"/>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Freelancer;Tech+Content+Writer;Always+Student&center=true&width=380&height=45">
+</a>
 </p>
 
 
