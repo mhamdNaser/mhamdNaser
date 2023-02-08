@@ -56,18 +56,8 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
@@ -159,6 +149,10 @@
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
  </tr>
 </table>
