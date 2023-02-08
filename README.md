@@ -35,6 +35,10 @@
 	<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="bootstrap" />
       <br>wordpress
     </td>
+    <td align="center"  width="96">
+	<img src="https://skillicons.dev/icons?i=react.js" width="48" height="48" alt="react" />
+      <br>react
+    </td>
 </tr>
  
 </table>
