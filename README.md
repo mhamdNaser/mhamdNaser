@@ -45,7 +45,7 @@
       <br>php
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/PHP-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/Php-icon.svg" alt="icon" width="65" height="65" />
       <br>php
     </td>
     <br/>
