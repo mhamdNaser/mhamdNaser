@@ -36,9 +36,7 @@
       <br>wordpress
     </td>
     </td>
-  </tr>
   <br>
-  <tr>
   <h3 align="center">Backend</h3>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="HTML" />
