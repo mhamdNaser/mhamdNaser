@@ -7,12 +7,24 @@
 <h1 align="center"> Muhammed Naser Edden </h1>
 
 
-<h3 align="center">Frontend</h3>
 <p align="center">
+	 <h3 align="center">Frontend</h3>
 	 <a href="https://www.w3.org/html/" target="_blank"> 
 	    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
 	      alt="html5"/> 
 	  </a>
+	   <td align="center"  width="96">
+		<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+	      <br>HTML
+	    </td>
+	    <td align="center" width="96">
+		<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+	      <br>CSS
+	    </td>
+	    <td align="center"  width="96">
+		<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+	      <br>Bootstrap
+	    </td>
 	 <a href="https://www.w3schools.com/css/" target="_blank">
 	    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
 	      alt="css3"/>
@@ -99,18 +111,6 @@
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
