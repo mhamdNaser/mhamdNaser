@@ -51,7 +51,7 @@
       <br>php
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="mysql" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48" />
       <br>mysql
     </td> 
     <td align="center"  width="96">
