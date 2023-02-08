@@ -42,8 +42,6 @@
 <table align="center">
   <h3 align="center">Backend</h3>
 <tr>
-  <br>
-  <p align="center">Backend</p>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="HTML" />
       <br>php
