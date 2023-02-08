@@ -49,10 +49,11 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/laravel-red.svg?style=for-the-badge&logo=laravel&logoColor=white"
       alt="laravel" />
-	  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-</a>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySql"/>
+  </a>
 </p>
 
 <p align="center">
