@@ -10,7 +10,7 @@
 
 <table align="center">
   <tr>
-  <h3 align="center">Frontend</h3>
+  Frontend
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
