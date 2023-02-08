@@ -49,10 +49,12 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>mysql
+    </td> 
+    <td align="center"  width="96">
+	<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="HTML" />
+      <br>laravel
     </td>
-    <br/>
   </tr>
- 
 </table>
 
 <hr/>
