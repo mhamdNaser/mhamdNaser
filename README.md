@@ -38,7 +38,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-339933.svg?style=for-the-badge&logo=php&logoColor=white"
+    <img src="https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/> 
   </a>
  <a href="https://www.npmjs.com" target="_blank"> 
