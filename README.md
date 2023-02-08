@@ -28,7 +28,7 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="65" height="65" />
       <br>sass
     </td>
     <td align="center"  width="96">
