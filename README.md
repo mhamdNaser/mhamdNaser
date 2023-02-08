@@ -24,11 +24,11 @@
       <br>Bootstrap
     </td>
     <td align="center"  width="96">
-	<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="bootstrap" />
-      <br>Javascript
+	<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+      <br>javascript
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="48" height="48" alt="sass" />
       <br>sass
     </td>
     <td align="center"  width="96">
