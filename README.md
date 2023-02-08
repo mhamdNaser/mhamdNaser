@@ -1,9 +1,7 @@
-<h1 align="center">Muhammed Nasser Edden</h1>
-
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true&width=380&height=45">
 </a>
 </p>
 
