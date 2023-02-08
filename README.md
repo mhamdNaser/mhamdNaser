@@ -35,6 +35,25 @@
 	  </a>
 </p>
 
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/php-339933.svg?style=for-the-badge&logo=php&logoColor=white"
+      alt="php"/> 
+  </a>
+ <a href="https://www.npmjs.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+      alt="NPM"/> 
+  </a>
+
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+      alt="express" />
+	  </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+</a>
+</p>
 
 <p align="center">
      <img src="https://img.shields.io/badge/-HTML-orange">
