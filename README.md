@@ -31,8 +31,8 @@
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
       <br>sass
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/wordpress-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center"  width="96">
+	<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="bootstrap" />
       <br>wordpress
     </td>
     </td>
