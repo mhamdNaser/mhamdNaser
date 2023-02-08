@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color={red}&text=MUHAMMED!&height=200&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 <h1 align="center"> Muhammed Naser Edden </h1>
