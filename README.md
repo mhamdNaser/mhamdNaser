@@ -9,8 +9,8 @@
 
 
 <table align="center">
+	<h3 align="center">Frontend</h3>
   <tr>
-  <p align="center">Frontend</p>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -36,6 +36,11 @@
       <br>wordpress
     </td>
 </tr>
+ 
+</table>
+
+<table align="center">
+  <h3 align="center">Backend</h3>
 <tr>
   <br>
   <p align="center">Backend</p>
