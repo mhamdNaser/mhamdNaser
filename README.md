@@ -49,15 +49,23 @@
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="HTML" />
       <br>php
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48" />
-      <br>mysql
     </td> 
     <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="HTML" />
       <br>laravel
     </td>
+  </tr>
+</table>
+
+<hr/>
+
+<table align="center">
+  <h3 align="center">Data Base</h3>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48" />
+      <br>mysql
+    </td> 
   </tr>
 </table>
 
