@@ -57,7 +57,6 @@
   </tr>
 </table>
 
-<hr/>
 
 <table align="center">
   <h3 align="center">Data Base</h3>
@@ -69,7 +68,6 @@
   </tr>
 </table>
 
-<hr/>
 
 
 
