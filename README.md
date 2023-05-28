@@ -7,7 +7,7 @@
 <h1 align="center"> Muhammed Naser Edden </h1>
 <h5 align="center"><a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a></h5>
 
-</hr>
+<hr />
 
 <table align="center">
 	<h3 align="center">Frontend</h3>
