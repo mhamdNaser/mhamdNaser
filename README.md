@@ -5,10 +5,8 @@
 	</a>
 </p>
 <h2 align="center"> Muhammed Naser Edden 
-	<a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
+	<a style="font-size="12"" href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
 </h2>
-
-<hr />
 
 <table align="center">
 	<h3 align="center">Frontend</h3>
