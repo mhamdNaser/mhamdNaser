@@ -5,7 +5,7 @@
 	</a>
 </p>
 <h2 align="center"> Muhammed Naser Edden </h2>
-<a align="center" href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
+<h6><a align="center" href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a></h6>
 
 <table align="center">
 <!-- 	<h3 align="center">Frontend</h3> -->
