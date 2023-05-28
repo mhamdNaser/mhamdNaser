@@ -4,9 +4,8 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true&width=380&height=45">
 	</a>
 </p>
-<h2 align="center"> Muhammed Naser Edden 
-	<a style="font-size="12"" href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
-</h2>
+<h2 align="center"> Muhammed Naser Edden </h2>
+<a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
 
 <table align="center">
 	<h3 align="center">Frontend</h3>
