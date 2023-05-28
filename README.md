@@ -5,10 +5,10 @@
 	</a>
 </p>
 <h2 align="center"> Muhammed Naser Edden </h2>
-<a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
+<a align="center" href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a>
 
 <table align="center">
-	<h3 align="center">Frontend</h3>
+<!-- 	<h3 align="center">Frontend</h3> -->
   <tr>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -43,7 +43,7 @@
 </table>
 
 <table align="center">
-  <h3 align="center">Backend & Data Base</h3>
+<!--   <h3 align="center">Backend & Data Base</h3> -->
 <tr>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="HTML" />
