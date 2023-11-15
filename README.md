@@ -42,6 +42,10 @@
 	<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>react
     </td>
+    <td align="center"  width="96">
+	<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="react" />
+      <br>vite
+    </td>
 </tr>
  
 </table>
