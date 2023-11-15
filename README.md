@@ -8,7 +8,7 @@
 <h6 align="center"><a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a></h6>
 
 <table align="center">
-<!-- 	<h3 align="center">Frontend</h3> -->
+	<h3 align="center">Style Tools</h3>
   <tr>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -36,7 +36,7 @@
 
 
 <table align="center">
-<!-- 	<h3 align="center">Frontend</h3> -->
+	<h3 align="center">Frontend</h3>
   <tr>
     <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
@@ -59,7 +59,7 @@
 </table>
 
 <table align="center">
-<!--   <h3 align="center">Backend & Data Base</h3> -->
+  <h3 align="center">Backend & Data Base</h3>
 <tr>
   <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="HTML" />
