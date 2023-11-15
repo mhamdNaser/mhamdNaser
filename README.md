@@ -30,6 +30,10 @@
         <img src="https://skillicons.dev/icons?i=sass"  width="48" height="48" alt="sass" />
       <br>sass
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind"  width="48" height="48" alt="sass" />
+      <br>sass
+    </td>
     <td align="center"  width="96">
 	<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="bootstrap" />
       <br>wordpress
