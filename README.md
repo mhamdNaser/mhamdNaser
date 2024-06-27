@@ -77,8 +77,7 @@
 </table>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&hide_progress=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&size_weight=0.5&count_weight=0.5)
 
 
 
