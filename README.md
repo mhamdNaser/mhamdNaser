@@ -6,6 +6,21 @@
 <h2 align="center"> Muhammed Naser Edden </h2>
 <h6 align="center"><a href="https://mhamdnaser.github.io/MyPortfolio/"> Portfolio </a></h6>
 
+
+<!-- Charts Section -->
+<table align="center" style="background-color: white;">
+  <tr>
+    <td>
+      <!-- First Chart: Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&size_weight=0.5&count_weight=0.5" />
+    </td>
+    <td>
+      <!-- Second Chart: GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=default" />
+    </td>
+  </tr>
+</table>
+
 <!-- Style Tools Section -->
 <table align="center">
 	<h3 align="center">Style Tools</h3>
@@ -109,11 +124,3 @@
 		</td>
 	</tr>
 </table>
-
-<hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&size_weight=0.5&count_weight=0.5)
-
-
-<!-- Second Chart: GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&theme=radical)
