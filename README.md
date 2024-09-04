@@ -31,10 +31,6 @@
 		<br>Tailwind
 	</td>
 	<td align="center" width="96">
-		<img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Shopify" />
-		<br>Shopify
-	</td>
-	<td align="center" width="96">
 		<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
 		<br>Flutter
 	</td>
@@ -60,6 +56,10 @@
 		<td align="center"  width="96">
 			<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
 			<br>Vite
+		</td>
+		<td align="center" width="96">
+			<img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Shopify" />
+			<br>Shopify
 		</td>
 	</tr>
 </table>
