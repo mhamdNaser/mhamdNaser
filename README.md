@@ -31,7 +31,7 @@
 		<br>Tailwind
 	</td>
 	<td align="center" width="96">
-		<img src="https://skillicons.dev/icons?i=shopify" width="48" height="48" alt="Shopify" />
+		<img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Shopify" />
 		<br>Shopify
 	</td>
 	<td align="center" width="96">
