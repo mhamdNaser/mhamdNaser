@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mhamdNaser">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+PHP;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+PHP;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -186,13 +186,25 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhamdNaser&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=default" alt="Top Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhamdNaser&theme=default" alt="GitHub Stats" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhamdNaser&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamdNaser&hide_border=true&theme=default" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhamdNaser&theme=default&utcOffset=3" alt="Productive Time" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mhamdNaser&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
+
+<!--
+  ALTERNATIVE (github-readme-stats) — only use after deploying your own Vercel instance.
+  Replace YOUR-INSTANCE with your own deployment domain:
+
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=mhamdNaser&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=default" alt="GitHub Stats" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=mhamdNaser&layout=compact&hide_border=true&cache_seconds=86400&theme=default" alt="Top Languages" />
+-->
 
 ---
 
