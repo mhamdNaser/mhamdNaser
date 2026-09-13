@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://mhamdnaser.github.io/MyPortfolio/">
+  <a href="https://frugaldomain.site/about-us/muhammed-nasser-edden">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://frugaldomain.site">
+    <img src="https://img.shields.io/badge/Website-4A5568?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -40,7 +43,7 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Portfolio](https://mhamdnaser.github.io/MyPortfolio/)** | Personal portfolio showcasing selected work | `React` `Tailwind` |
+| **[Portfolio](https://frugaldomain.site/about-us/muhammed-nasser-edden)** | Personal portfolio showcasing selected work | `React` `Tailwind` |
 | **[Project Name](https://github.com/mhamdNaser/repo)** | One-line description of what it does and who it's for | `Laravel` `MySQL` |
 | **[Project Name](https://github.com/mhamdNaser/repo)** | One-line description of what it does and who it's for | `React` `REST API` |
 
