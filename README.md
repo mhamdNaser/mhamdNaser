@@ -95,7 +95,6 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
 </details>
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
@@ -108,16 +107,26 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhamdNaser&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=mhamdNaser&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <!--
   GitHub Activity Graph:
-  Shows contribution activity over the last 31 days.
+  Shows GitHub contribution activity over time.
 
-  GitHub Profile Trophy:
-  Dynamically generated achievement cards based on GitHub activity.
+  GitHub Streak Stats:
+  Shows total contributions, current streak, and longest streak.
+
+  Trophies intentionally omitted because the public trophy endpoint
+  can experience API/HTTP errors.
 -->
+
+---
+
+<p align="center">
+  <sub>Open to interesting projects — feel free to reach out.</sub>
+</p>
+
 
 ---
 
