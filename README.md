@@ -124,16 +124,3 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
 <p align="center">
   <sub>Open to interesting projects — feel free to reach out.</sub>
 </p>
-
-<!--
-  Removed on purpose: profile-view counter, streak card, productive-time card.
-  Three or more stat cards start to look like decoration rather than signal.
-  To switch the theme, change `theme=github_dark` on both cards to keep them
-  visually consistent (options: default, github_dark, dracula, nord_dark).
--->
-
----
-
-<p align="center">
-  <sub>Open to interesting projects — feel free to reach out.</sub>
-</p>
