@@ -110,18 +110,6 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
   <img src="https://streak-stats.demolab.com/?user=mhamdNaser&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<!--
-  GitHub Activity Graph:
-  Shows GitHub contribution activity over time.
-
-  GitHub Streak Stats:
-  Shows total contributions, current streak, and longest streak.
-
-  Trophies intentionally omitted because the public trophy endpoint
-  can experience API/HTTP errors.
--->
-
----
 
 <p align="center">
   <sub>Open to interesting projects — feel free to reach out.</sub>
