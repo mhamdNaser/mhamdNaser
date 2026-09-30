@@ -103,6 +103,28 @@ interfaces. My primary stack is **Laravel + React**, and I'm currently expanding
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhamdNaser&theme=github_dark" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamdNaser&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhamdNaser&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</p>
+
+<!--
+  GitHub Activity Graph:
+  Shows contribution activity over the last 31 days.
+
+  GitHub Profile Trophy:
+  Dynamically generated achievement cards based on GitHub activity.
+-->
+
+---
+
+<p align="center">
+  <sub>Open to interesting projects — feel free to reach out.</sub>
+</p>
+
 <!--
   Removed on purpose: profile-view counter, streak card, productive-time card.
   Three or more stat cards start to look like decoration rather than signal.
